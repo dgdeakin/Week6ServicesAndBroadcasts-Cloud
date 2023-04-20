@@ -47,8 +47,7 @@
         app:layout_constraintStart_toEndOf="@+id/buttonPlay"
         app:layout_constraintTop_toBottomOf="@+id/buttonStartService" />
 
-<<<<<<< HEAD
-=======
+
     <Button
         android:id="@+id/buttonIntent"
         android:layout_width="wrap_content"
@@ -59,5 +58,4 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
->>>>>>> 4f26fc4 (Final)
 </androidx.constraintlayout.widget.ConstraintLayout>
